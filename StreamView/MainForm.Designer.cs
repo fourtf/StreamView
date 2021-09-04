@@ -34,14 +34,10 @@
             // 
             // webview
             // 
-            this.webview.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webview.CreationProperties = null;
             this.webview.Location = new System.Drawing.Point(0, 0);
             this.webview.Name = "webview";
             this.webview.Size = new System.Drawing.Size(777, 654);
-            this.webview.Source = new System.Uri("https://twitch.tv", System.UriKind.Absolute);
             this.webview.TabIndex = 0;
             this.webview.ZoomFactor = 1D;
             // 
